@@ -151,10 +151,11 @@ a:hover {
 }
 
 .the-more-you-know-pic {
-  width: 22%;
-  height: 22%;
+  width: 21%;
   float: left;
   margin-right: 30px;
+  margin-top: 10px;
+  padding-top: 8px;
 }
 
 .skill-row::after {
@@ -164,10 +165,11 @@ a:hover {
 }
 
 .html-pic {
-  width: 21.5%;
-  height: 21.5%;
+  width: 20%;
   float: right;
   margin-left: 30px;
+  margin-top: 10px;
+  padding-top: 11px;
 }
 
 .contact-me {
