@@ -124,7 +124,7 @@ a:hover {
 }
 
 .intro {
-  width: 42%;
+  width: 33%;
   margin: auto;
   text-align: center;
   margin-top: 50px;
@@ -133,6 +133,7 @@ a:hover {
 .emoji {
   font-size: 1.2rem;
   width: 100%;
+  line-height: 1;
 }
 
 .skills {
@@ -144,7 +145,7 @@ a:hover {
 }
 
 .skill-row {
-  width: 50%;
+  width: 35%;
   margin: 70px auto;
   text-align: left;
 }
